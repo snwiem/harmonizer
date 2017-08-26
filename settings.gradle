@@ -1,2 +1,3 @@
 rootProject.name = 'harmonizer'
+include 'harmonizer-ui'
 
