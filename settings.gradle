@@ -1,4 +1,5 @@
 rootProject.name = 'harmonizer'
 include 'harmonizer-ui'
 include 'harmonizer-theory'
+include 'harmonizer-common'
 
